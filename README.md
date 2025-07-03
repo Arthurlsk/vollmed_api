@@ -1,29 +1,57 @@
-💻 Sobre o projeto
-Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos, e também o agendamento e cancelamento de consultas.
+# 🩺 Voll.med - API REST de Gestão de Consultas
 
-Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
+**Voll.med** é uma clínica médica fictícia que precisa de um sistema para **gestão de consultas**.  
+Este projeto representa a **API REST**, responsável pelas principais funcionalidades do backend.  
+O desenvolvimento do aplicativo mobile será feito por outro time.
 
-⚙️ Funcionalidades
- CRUD de médicos;
- Agendamento de consultas(em breve);
- Cancelamento de consultas(em breve);
-🎨 Layout
-O layout da aplicação mobile está disponível neste link: Figma
+---
 
-📄 Documentação
-A documentação das funcionalidades da aplicação pode ser acessada neste link: Trello
+## 🚀 Funcionalidades Implementadas
 
-🛠 Tecnologias
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+### ✅ Cadastro, edição e exclusão de médicos  
+### 🔜 Agendamento de consultas *(em breve)*  
+### 🔜 Cancelamento de consultas *(em breve)*  
 
-Java 21
-Spring Boot 3
-Maven
-MySQL
-Hibernate
-Flyway
-Lombok
-📝 Licença
-Projeto desenvolvido por Alura e utilizado nos cursos de Spring Boot.
+> ❌ O CRUD de pacientes ainda **não foi implementado**.
 
-Instrutor: Rodrigo Ferreira
+---
+
+## 🖼 Layout da Aplicação
+
+🎨 A interface mobile está disponível no Figma:  
+[🔗 Acessar layout no Figma](#) *(insira o link real aqui)*
+
+---
+
+## 📋 Documentação do Projeto
+
+A organização das tarefas está disponível no Trello:  
+[🔗 Acessar documentação no Trello](#) *(insira o link real aqui)*
+
+---
+
+## ⚙️ Tecnologias Utilizadas
+
+- **Java 21**
+- **Spring Boot 3**
+- **Maven**
+- **MySQL**
+- **Hibernate**
+- **Flyway**
+- **Lombok**
+
+---
+
+## 📌 Como Rodar o Projeto
+
+> Pré-requisitos: Java 21, MySQL, Maven
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse o diretório
+cd seu-repositorio
+
+# Execute o projeto
+./mvnw spring-boot:run
