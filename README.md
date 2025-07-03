@@ -19,7 +19,7 @@ O desenvolvimento do aplicativo mobile será feito por outro time.
 ## 🖼 Layout da Aplicação
 
 🎨 A interface mobile está disponível no Figma:  
-[🔗 Acessar layout no Figma](#) *(https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f)*
+[🔗 Acessar layout no Figma](https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f) *(https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f)*
 
 ---
 
