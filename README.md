@@ -19,14 +19,14 @@ O desenvolvimento do aplicativo mobile será feito por outro time.
 ## 🖼 Layout da Aplicação
 
 🎨 A interface mobile está disponível no Figma:  
-[🔗 Acessar layout no Figma](https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f) *(https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f)*
+[🔗 Acessar layout no Figma](https://www.figma.com/design/N4CgpJqsg7gjbKuDmra3EV/Voll.med?node-id=2-1007&p=f) 
 
 ---
 
 ## 📋 Documentação do Projeto
 
 A organização das tarefas está disponível no Trello:  
-[🔗 Acessar documentação no Trello](#) *(insira o link real aqui)*
+[🔗 Acessar documentação no Trello](https://trello.com/b/O0lGCsKb/api-voll-med) 
 
 ---
 
